@@ -13,6 +13,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.Keys;
 import com.crm.qa.base.TestBase;
 
+//comment for test CICD
 public class ContactsPage extends TestBase{
 
 	
